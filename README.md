@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2350-find-closest-number-to-zero](https://github.com/ritul-patel/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritul-patel/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
