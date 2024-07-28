@@ -11,9 +11,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ritul-patel/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/ritul-patel/LeetCode/tree/master/0792-binary-search) |
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/ritul-patel/LeetCode/tree/master/0792-binary-search) |
 | [2350-find-closest-number-to-zero](https://github.com/ritul-patel/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritul-patel/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
