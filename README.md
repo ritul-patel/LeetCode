@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ritul-patel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ritul-patel/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ritul-patel/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ritul-patel/LeetCode/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ritul-patel/LeetCode/tree/master/0217-contains-duplicate) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ritul-patel/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ritul-patel/LeetCode/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ritul-patel/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
