@@ -6,9 +6,6 @@ public:
             if(nums[i]==nums[i+1]){
                 return true;
             }
-            else{
-                continue;
-            }
         }
         return false;
     }
